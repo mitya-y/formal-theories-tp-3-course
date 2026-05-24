@@ -1,0 +1,10 @@
+k 2
+start S
+nonterminals S A B C
+terminals a b c
+alpha S
+
+S -> A B
+A -> B a | epsilon
+B -> C b | C
+C -> c | epsilon

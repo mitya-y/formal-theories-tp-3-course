@@ -1,0 +1,10 @@
+k 2
+S
+
+S -> A B
+A -> B a
+A ->
+B -> C b
+B -> C
+C -> c
+C ->
